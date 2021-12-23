@@ -1,0 +1,25 @@
+
+
+ls 
+cd(change direction) + tab (不用斜線)
+pwd
+vim 
+python tab 跟 space不能混用
+dd,yy,p,3p
+esc回到指令模式 a,i,o 
+mkdir 
+cd .. 回上層 
+mv 移動+改檔名 mv /stan vimrc ~/.vimrc
+python3 loginsystem.py
+g++ test.cpp -o test
+control+c 關掉
+sudo 最高權限
+pip3 install gspread (去該函示庫)
+
+gdrivetest-306906
+
+用到那些module
+資料怎麼傳
+LCD
+重要是我之後看會知道怎麼做
+
